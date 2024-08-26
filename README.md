@@ -1,1 +1,1 @@
-# magazine
+# My first ever magazine project
